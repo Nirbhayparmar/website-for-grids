@@ -1,7 +1,10 @@
 .modalbutton {
   display: flex;
   justify-content: center;
-  margin:10em;
+  
+}
+button{
+  margin:10px;
 }
 p {
   font-weight: bold;
