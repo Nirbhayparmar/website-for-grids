@@ -1,0 +1,7 @@
+.modalbutton {
+  display: flex;
+  justify-content: center;
+}
+p {
+  font-weight: bold;
+}
